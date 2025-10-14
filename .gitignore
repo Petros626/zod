@@ -38,6 +38,8 @@ MANIFEST
 
 # Installer logs
 pip-log.txt
+DE.txt
+readme.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
